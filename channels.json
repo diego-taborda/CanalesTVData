@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tn",
+    "name": "TN",
+    "category": "Noticias",
+    "logo": "tn",
+    "url": "https://www.youtube.com/live/cb12KmMMDJA"
+  },
+  {
+    "id": "tvp",
+    "name": "TV Publica",
+    "category": "General",
+    "logo": "tvp",
+    "url": "https://www.youtube.com/live/jZHZhzQiTek?si=V2tQY8NIhjbC-wZL"
+
+  },
+  {
+   "id": "ln",
+  "name": "LN+",
+  "category": "Noticias",
+  "logo": "ln",
+  "url": "https://www.youtube.com/live/FEWZjXJ7M0c?si=5Ccdvh5GQrhEqm0B"
+
+  },
+  {
+    "id": "a24",
+    "name": "A24",
+    "category": "Noticias",
+    "logo": "a24",
+    "url": "https://www.youtube.com/live/ArKbAx1K-2U?si=QB4JRaJbbBadA4hM"
+
+  },
+  {
+   "id": "c5n",
+  "name": "C5N",
+  "category": "Noticias",
+  "logo": "c5n",
+  "url": "https://www.youtube.com/live/VWhQ6xspnSc?si=aFlB8252AsL61GTA"
+
+  },
+  {
+   "id": "cronica",
+    "name": "Crónica",
+    "category": "Noticias",
+    "logo": "cronica",
+    "url": "https://www.youtube.com/live/JC7f3EUDaqw?si=s3xOrVyY09VcEc_4"
+
+  },
+  {
+    "id": "canal26",
+    "name": "Canal 26",
+    "category": "Noticias",
+    "logo": "canal26",
+    "url": "https://www.youtube.com/live/VLjvS3uflXc?si=JRsIJfqYGqkcm84e"
+  },
+  {
+    "id": "canalrural",
+    "name": "Canal Rural",
+    "category": "Noticias",
+    "logo": "canalrural",
+    "url": "https://www.youtube.com/live/w78Zr0J-dIs?si=m6wU5_DWtVrJsvkH"
+  },
+  {
+    "id": "el9",
+    "name": "El 9",
+    "category": "General",
+    "logo": "el9",
+    "url": "https://www.youtube.com/live/C1DhpJ07ZuE?si=wjGHsbYJgY5sdFKI"
+  },
+  {
+    "id": "teleferosario",
+    "name": "Telefe Rosario",
+    "category": "General",
+    "logo": "teleferosario",
+    "url": "https://www.youtube.com/live/5ABLiIbQchA?si=XZJLssjhhJTIBsMO"
+  }
+]
