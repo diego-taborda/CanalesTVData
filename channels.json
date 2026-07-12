@@ -73,5 +73,12 @@
     "category": "General",
     "logo": "teleferosario",
     "url": "https://www.youtube.com/live/5ABLiIbQchA?si=XZJLssjhhJTIBsMO"
-  }
+  },
+   {
+    "id": "elonce",
+    "name": "El 11 Paraná",
+    "category": "General",
+    "logo": "",
+    "url": "https://www.youtube.com/live/WARNLHOnhqY?si=MKvYjWZjsORlT8KB"
+   } 
 ]
