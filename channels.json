@@ -80,5 +80,12 @@
     "category": "General",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/elonce-2016.png",
     "url": "https://www.youtube.com/live/WARNLHOnhqY?si=MKvYjWZjsORlT8KB"
+   },
+  {
+    "id": "canal9parana",
+    "name": "Canal 9 Paraná",
+    "category": "General",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/elonce-2016.png",
+    "url": "https://9digital.com.ar/en-vivo/"
    } 
 ]
