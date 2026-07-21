@@ -87,5 +87,12 @@
     "category": "General",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal9-litoral.png",
     "url": "https://9digital.com.ar/en-vivo/"
+   },
+  {
+    "id": "canal3rosario",
+    "name": "Canal 3 Rosario",
+    "category": "General",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/EltresRosario.png",
+    "url": "https://www.rosario3.com/el-tres-en-vivo/index.html"
    } 
 ]
