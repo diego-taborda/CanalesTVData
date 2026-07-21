@@ -10,7 +10,7 @@
     "id": "tvp",
     "name": "TV Publica",
     "category": "General",
-    "logo": "tvp",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/main/logos/tvp.png",
     "url": "https://www.youtube.com/live/jZHZhzQiTek?si=V2tQY8NIhjbC-wZL"
 
   },
@@ -57,7 +57,7 @@
     "id": "canalrural",
     "name": "Canal Rural",
     "category": "Noticias",
-    "logo": "canalrural",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/main/logos/canalrural.png",
     "url": "https://www.youtube.com/live/w78Zr0J-dIs?si=m6wU5_DWtVrJsvkH"
   },
   {
@@ -71,7 +71,7 @@
     "id": "teleferosario",
     "name": "Telefe Rosario",
     "category": "General",
-    "logo": "teleferosario",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/main/logos/TelefeRosario.png",
     "url": "https://www.youtube.com/live/5ABLiIbQchA?si=XZJLssjhhJTIBsMO"
   },
    {
