@@ -94,5 +94,13 @@
     "category": "General",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/EltresRosario.png",
     "url": "https://www.rosario3.com/el-tres-en-vivo/index.html"
+   },
+  {
+    "id": "tycsports",
+    "name": "TyC Sports",
+    "category": "Deportes",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8
+"
    } 
 ]
