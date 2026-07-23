@@ -101,5 +101,12 @@
     "category": "Deportes",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/tycsp.png",
     "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8"
-   } 
+   },
+  {
+    "id": "5tvcorrientes",
+    "name": "5 TV Corrientes",
+    "category": "General",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/tycsp.png",
+    "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+   }
 ]
