@@ -108,5 +108,12 @@
     "category": "General",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/5tv.png",
     "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+   },
+  {
+    "id": "canal2mardelplata",
+    "name": "Canal 2 MP",
+    "category": "General",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal2mdp.png",
+    "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8"
    }
 ]
