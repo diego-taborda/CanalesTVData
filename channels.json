@@ -115,5 +115,12 @@
     "category": "General",
     "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal2mdp.png",
     "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8"
+   },
+  {
+    "id": "fmlibreparana",
+    "name": "FM Libre",
+    "category": "General",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal2mdp.png",
+    "url": "https://fmlibre.com.ar/"
    }
 ]
