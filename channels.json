@@ -120,14 +120,14 @@
     "id": "fmlibreparana",
     "name": "FM Libre",
     "category": "Radio",
-    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal2mdp.png",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/fmlibre.png",
     "url": "https://fmlibre.com.ar/"
    },
   {
     "id": "lacien",
     "name": "La 100",
     "category": "Radio",
-    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/canal2mdp.png",
+    "logo": "https://raw.githubusercontent.com/diego-taborda/CanalesTVData/refs/heads/main/logos/la100.png",
     "url": "https://26513.live.streamtheworld.com/FM999_56AAC.aac"
    }
 ]
